@@ -36,4 +36,4 @@ Text that is not a quote
  - [ ] Add delight to the experience when all tasks are
 complete :tada:
 
-  ! [duck with a knife] (https://www.google.com/imgres?q=duck%20with%20a%20knife&imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2F1d%2Fa3%2F93%2F1da393f98d1a11f70e7f44b56691f671.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fduck-with-a-knife-sticker-for-sale-by-nikamii--960533426758089411%2F&docid=p7xO709yiUAuYM&tbnid=TrKaTIAvWfsMKM&vet=12ahUKEwj_x6Cf2KGIAxUZQvEDHStZD7sQM3oECGUQAA..i&w=600&h=600&hcb=2&ved=2ahUKEwj_x6Cf2KGIAxUZQvEDHStZD7sQM3oECGUQAA)
+  ! [tomato] (https://images.app.goo.gl/h7gZMb3YkfTdJhiB9)
