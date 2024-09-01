@@ -36,4 +36,5 @@ Text that is not a quote
  - [ ] Add delight to the experience when all tasks are
 complete :tada:
 
-  ! [tomato] (https://images.app.goo.gl/h7gZMb3YkfTdJhiB9)
+ ![image](https://github.com/user-attachments/assets/eace72f6-bb62-4d53-a860-95db318fcf43)
+
